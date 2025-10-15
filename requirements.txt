@@ -1,0 +1,6 @@
+torch
+tokenizers
+sacrebleu
+jiwer
+python-Levenshtein
+tqdm
